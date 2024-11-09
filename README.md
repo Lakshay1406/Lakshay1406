@@ -16,5 +16,6 @@
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
+![Lakshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshay1406&theme=dark&show_icons=true&&hide=issues,contribs)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Lakshay1406?theme=dark&font=Source%20Sans%203)
 [![Lakshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshay1406&bg_color=1f1f1f&color=008fb3&line=0497c8&point=e3e3e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
